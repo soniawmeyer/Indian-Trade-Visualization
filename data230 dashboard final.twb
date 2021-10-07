@@ -1206,8 +1206,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='32' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97916' id='31' param='vert' type-v2='layout-flow' w='98438' x='781' y='1042'>
+            <zone h='100000' id='38' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97916' id='37' param='vert' type-v2='layout-flow' w='98438' x='781' y='1042'>
                 <zone fixed-size='280' h='97916' id='3' is-fixed='true' name='All Trade Heat Table IE' w='85938' x='781' y='1042'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1358,8 +1358,8 @@
           </layout-options>
           <size maxheight='850' minheight='850' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='118' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97916' id='117' param='vert' type-v2='layout-flow' w='98438' x='781' y='1042'>
+            <zone h='100000' id='124' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='123' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='6510' id='14' type-v2='title' w='84668' x='781' y='1042'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1607,8 +1607,8 @@
           </layout-options>
           <size maxheight='1250' minheight='1250' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='132' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97916' id='131' param='vert' type-v2='layout-flow' w='98438' x='781' y='1042'>
+            <zone h='100000' id='138' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97916' id='137' param='vert' type-v2='layout-flow' w='98438' x='781' y='1042'>
                 <zone h='5339' id='18' type-v2='title' w='83985' x='781' y='1042'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2277,7 +2277,7 @@
           </current-page>
         </viewpoint>
       </viewpoints>
-      <active id='4' />
+      <active id='-1' />
       <simple-id uuid='{38B8D5FA-1096-4359-8F59-23BCB281FF4C}' />
     </window>
     <window class='dashboard' name='Data'>
@@ -2290,7 +2290,7 @@
           </current-page>
         </viewpoint>
       </viewpoints>
-      <active id='10' />
+      <active id='-1' />
       <simple-id uuid='{671849EE-F7F4-44DC-AE39-E949BE6B3AF4}' />
     </window>
   </windows>
