@@ -18,9 +18,9 @@ The project utilizes two primary data sources:
 
 The full paper describing methods and findings can be found [here](DATA230_Final_Paper.pdf).
 
-## Author
+## Authors
 
-[Sonia Meyer](https://github.com/soniawmeyer)
+[Sonia Meyer](https://github.com/soniawmeyer), Hrusihikesh Pokala, Nirvisha Garara
 
 ## References
 
