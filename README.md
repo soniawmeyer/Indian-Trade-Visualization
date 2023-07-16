@@ -24,4 +24,3 @@ The full paper describing methods and findings can be found [here](DATA230_Final
 
 - L. Agarwal, “India - trade data,” Available at https://www.kaggle.com/lakshyaag/india-trade-data) (2021/09/10).
 - D. o. C. Government of India, “Export import data bank version 7.1 - tradestat,” Available at https://tradestat.commerce.gov.in/eidb/default.asp (2021/09/10).
-- 
