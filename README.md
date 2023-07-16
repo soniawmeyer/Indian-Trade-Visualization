@@ -5,6 +5,8 @@
 ## Overview
 This project aims to analyze India's import and export data from 2010 to 2021 and examine the impact of the COVID-19 pandemic on India's trade with foreign countries. The goal is to provide insights into trade patterns, identify top trade partners, and understand the effects of the pandemic on India's economy.
 
+[Link to workbook.](https://public.tableau.com/app/profile/sonia.meyer/viz/indiantradevisualization/TotalTrade)
+
 ## Data Sources
 The project utilizes two primary data sources:
 
